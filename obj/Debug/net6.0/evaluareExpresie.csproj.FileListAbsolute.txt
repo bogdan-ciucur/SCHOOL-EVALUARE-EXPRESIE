@@ -1,0 +1,15 @@
+/media/bogdan/Storage/00-fisiere-cod/cs-fudnamente/evaluareExpresie/obj/Debug/net6.0/evaluareExpresie.csproj.AssemblyReference.cache
+/media/bogdan/Storage/00-fisiere-cod/cs-fudnamente/evaluareExpresie/obj/Debug/net6.0/evaluareExpresie.GeneratedMSBuildEditorConfig.editorconfig
+/media/bogdan/Storage/00-fisiere-cod/cs-fudnamente/evaluareExpresie/obj/Debug/net6.0/evaluareExpresie.AssemblyInfoInputs.cache
+/media/bogdan/Storage/00-fisiere-cod/cs-fudnamente/evaluareExpresie/obj/Debug/net6.0/evaluareExpresie.AssemblyInfo.cs
+/media/bogdan/Storage/00-fisiere-cod/cs-fudnamente/evaluareExpresie/obj/Debug/net6.0/evaluareExpresie.csproj.CoreCompileInputs.cache
+/media/bogdan/Storage/00-fisiere-cod/cs-fudnamente/evaluareExpresie/bin/Debug/net6.0/evaluareExpresie
+/media/bogdan/Storage/00-fisiere-cod/cs-fudnamente/evaluareExpresie/bin/Debug/net6.0/evaluareExpresie.deps.json
+/media/bogdan/Storage/00-fisiere-cod/cs-fudnamente/evaluareExpresie/bin/Debug/net6.0/evaluareExpresie.runtimeconfig.json
+/media/bogdan/Storage/00-fisiere-cod/cs-fudnamente/evaluareExpresie/bin/Debug/net6.0/evaluareExpresie.dll
+/media/bogdan/Storage/00-fisiere-cod/cs-fudnamente/evaluareExpresie/bin/Debug/net6.0/ref/evaluareExpresie.dll
+/media/bogdan/Storage/00-fisiere-cod/cs-fudnamente/evaluareExpresie/bin/Debug/net6.0/evaluareExpresie.pdb
+/media/bogdan/Storage/00-fisiere-cod/cs-fudnamente/evaluareExpresie/obj/Debug/net6.0/evaluareExpresie.dll
+/media/bogdan/Storage/00-fisiere-cod/cs-fudnamente/evaluareExpresie/obj/Debug/net6.0/ref/evaluareExpresie.dll
+/media/bogdan/Storage/00-fisiere-cod/cs-fudnamente/evaluareExpresie/obj/Debug/net6.0/evaluareExpresie.pdb
+/media/bogdan/Storage/00-fisiere-cod/cs-fudnamente/evaluareExpresie/obj/Debug/net6.0/evaluareExpresie.genruntimeconfig.cache
